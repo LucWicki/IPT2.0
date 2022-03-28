@@ -1,0 +1,20 @@
+C:\Users\vmadmin\source\repos\Decklist_Visualizer\Decklist_Visualizer\bin\Debug\Decklist_Visualizer.exe.config
+C:\Users\vmadmin\source\repos\Decklist_Visualizer\Decklist_Visualizer\bin\Debug\Decklist_Visualizer.exe
+C:\Users\vmadmin\source\repos\Decklist_Visualizer\Decklist_Visualizer\bin\Debug\Decklist_Visualizer.pdb
+C:\Users\vmadmin\source\repos\Decklist_Visualizer\Decklist_Visualizer\obj\Debug\Decklist_Visualizer.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\Decklist_Visualizer\Decklist_Visualizer\obj\Debug\Decklist_Visualizer.Form1.resources
+C:\Users\vmadmin\source\repos\Decklist_Visualizer\Decklist_Visualizer\obj\Debug\Decklist_Visualizer.Properties.Resources.resources
+C:\Users\vmadmin\source\repos\Decklist_Visualizer\Decklist_Visualizer\obj\Debug\Decklist_Visualizer.csproj.GenerateResource.cache
+C:\Users\vmadmin\source\repos\Decklist_Visualizer\Decklist_Visualizer\obj\Debug\Decklist_Visualizer.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\Decklist_Visualizer\Decklist_Visualizer\obj\Debug\Decklist_Visualizer.exe
+C:\Users\vmadmin\source\repos\Decklist_Visualizer\Decklist_Visualizer\obj\Debug\Decklist_Visualizer.pdb
+C:\Daten\OneDrive - sluz\Desktop\Decklist_Visualizer\Decklist_Visualizer\bin\Debug\Decklist_Visualizer.exe.config
+C:\Daten\OneDrive - sluz\Desktop\Decklist_Visualizer\Decklist_Visualizer\bin\Debug\Decklist_Visualizer.exe
+C:\Daten\OneDrive - sluz\Desktop\Decklist_Visualizer\Decklist_Visualizer\bin\Debug\Decklist_Visualizer.pdb
+C:\Daten\OneDrive - sluz\Desktop\Decklist_Visualizer\Decklist_Visualizer\obj\Debug\Decklist_Visualizer.csprojAssemblyReference.cache
+C:\Daten\OneDrive - sluz\Desktop\Decklist_Visualizer\Decklist_Visualizer\obj\Debug\Decklist_Visualizer.Form1.resources
+C:\Daten\OneDrive - sluz\Desktop\Decklist_Visualizer\Decklist_Visualizer\obj\Debug\Decklist_Visualizer.Properties.Resources.resources
+C:\Daten\OneDrive - sluz\Desktop\Decklist_Visualizer\Decklist_Visualizer\obj\Debug\Decklist_Visualizer.csproj.GenerateResource.cache
+C:\Daten\OneDrive - sluz\Desktop\Decklist_Visualizer\Decklist_Visualizer\obj\Debug\Decklist_Visualizer.csproj.CoreCompileInputs.cache
+C:\Daten\OneDrive - sluz\Desktop\Decklist_Visualizer\Decklist_Visualizer\obj\Debug\Decklist_Visualizer.exe
+C:\Daten\OneDrive - sluz\Desktop\Decklist_Visualizer\Decklist_Visualizer\obj\Debug\Decklist_Visualizer.pdb
